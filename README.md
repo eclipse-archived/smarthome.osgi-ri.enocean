@@ -1,7 +1,5 @@
-Eclipse SmartHome now hosts the Orange implementation of a standard OSGi EnOcean base driver.
-
-Orange implementation of OSGi standard EnOcean Device service specification is now available and maintained on eclipse SmartHome git repository under eclipse public licence (https://www.eclipse.org/legal/epl-v10.html). The specification is officially a chapter of OSGi Release 6 Residential specification (http://www.osgi.org/Release6/HomePage). The implementation of an OSGi Device Service specification is called an OSGi base driver. A base driver simplifies the development of applications controlling devices of a specific protocol, here the EnOcean standard radio technology (https://www.enocean-alliance.org).
-
+This repository hosts the reference implementation for the OSGi EnOcean Device Service specification, that has been originally implemented and contributed by Orange and is a sub-project of Eclipse SmartHome. 
+The specification is officially a chapter of OSGi Release 6 Residential specification (http://www.osgi.org/Release6/HomePage). The implementation of an OSGi Device Service specification is called an OSGi base driver. A base driver simplifies the development of applications controlling devices of a specific protocol, here the EnOcean standard radio technology (https://www.enocean-alliance.org).
 
 Functional and technical descriptions:
 
